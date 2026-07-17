@@ -9,6 +9,7 @@
 - الاسم: حسان حمود (Hassan Hammoud)
 - الأصل: لبنان
 - المهنة: صانع محتوى، ومهندس برمجيات
+- الخبرة المهنية: عمل سابقًا في شركة فيسبوك (Facebook)، ويعمل حاليًا في شركة زالاندو (Zalando) الألمانية
 - الإقامة: برلين، ألمانيا
 - اللغات: العربية، الإنجليزية، الألمانية
 - بداية إنتاج المحتوى على القناة الحالية: 2026
@@ -27,9 +28,9 @@
 - [قناة يوتيوب](https://www.youtube.com/@HassanGPT): القناة الرسمية، جميع الفيديوهات
 - [إنستغرام](https://www.instagram.com/hassan.hd97/)
 - [فيسبوك](https://www.facebook.com/hassan.hammoud.754)
-- [تيك توك](https://www.tiktok.com/@hassan.hammoud531)
+- [تيك توك](https://www.tiktok.com/@hassan_hammoud_gpt)
 - [دعم القناة (Buy Me a Coffee)](https://buymeacoffee.com/hassangpt)
-- [البريد الإلكتروني](mailto:hello@hassanhammoud.me)
+- [البريد الإلكتروني](mailto:hassano.engineer@gmail.com)
 
 ## الفيديوهات الطويلة (الأحدث أولًا)
 
@@ -49,11 +50,11 @@
 - من هو حسان حمود؟ صانع محتوى لبناني ومهندس برمجيات مقيم في برلين، يدير قناة يوتيوب تشرح القضايا الاجتماعية والنفسية والسياسية في العالم العربي.
 - كم عدد مشتركي قناته؟ أكثر من 11,000 مشترك، وأكثر من 2 مليون مشاهدة إجمالية (يوليو 2026).
 - ما هو أشهر فيديو له؟ "هل الإسلام دين دكتاتوري؟" بأكثر من 2 مليون مشاهدة.
-- كيف يمكن التواصل معه؟ عبر hello@hassanhammoud.me أو قناته على يوتيوب @HassanGPT.
+- كيف يمكن التواصل معه؟ عبر hassano.engineer@gmail.com أو قناته على يوتيوب @HassanGPT.
 
 ## English summary
 
-Hassan Hammoud (حسان حمود) is a Lebanese software engineer and Arabic-language educational content creator based in Berlin, Germany. His YouTube channel (@HassanGPT, channel ID UCPlRy6jWxA0A3RrCfa9u4fg) explains game theory, social psychology, Arab identity, AI's relationship with the Arabic language, religion and democracy, cognitive biases, and history to Arabic-speaking audiences — often through metaphorical lenses drawn from film, anime, and history.
+Hassan Hammoud (حسان حمود) is a Lebanese software engineer and Arabic-language educational content creator based in Berlin, Germany. He previously worked at Facebook and is currently a software engineer at the German company Zalando. His YouTube channel (@HassanGPT, channel ID UCPlRy6jWxA0A3RrCfa9u4fg) explains game theory, social psychology, Arab identity, AI's relationship with the Arabic language, religion and democracy, cognitive biases, and history to Arabic-speaking audiences — often through metaphorical lenses drawn from film, anime, and history.
 
 Key facts (as of July 2026):
 
@@ -62,4 +63,4 @@ Key facts (as of July 2026):
 - Most-viewed video: "هل الإسلام دين دكتاتوري؟" (Is Islam a dictatorial religion?) — 2,030,000+ views: https://www.youtube.com/watch?v=4m5RvaumrDY
 - Official site (Arabic): https://hassanhammoud.me/
 - Official site (English): https://hassanhammoud.me/en/
-- Contact: hello@hassanhammoud.me
+- Contact: hassano.engineer@gmail.com
